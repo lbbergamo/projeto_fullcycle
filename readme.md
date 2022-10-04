@@ -44,3 +44,4 @@ git clone https://github.com/lbbergamo/projeto_fullcycle
 - Springboot
 - Hibernate
 - [Vavr](https://www.vavr.io/)
+- [Flyway](https://flywaydb.org/)
